@@ -38,7 +38,7 @@ ZCZC W03 18 L07 Demo related
 ZCZC W03 10 L11 Assignment #01
 ZCZC W03 30 L12 Assignment #02
 ZCZC W03 240 L13 Assignment #03
-ZCZC w03 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W03 60 L32 YouTube: watching OS related topics, etc.
 ZCZC W03 30 L21 Trying something
 ZCZC W03 30 L14 Assignment #04
 ZCZC W03 20 L15 Assignment #05
