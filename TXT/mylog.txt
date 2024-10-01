@@ -45,3 +45,14 @@ ZCZC W03 20 L15 Assignment #05
 ZCZC W03 60 L40 TXT/ related in general
 ZCZC W03 5 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 30 L41 TXT/mylog.txt related.
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 68 L05 Quiz related including studying
+ZCZC W04 10 L11 Assignment #01
+ZCZC W04 10 L12 Assignment #02
+ZCZC W04 10 L13 Assignment #03
+ZCZC W04 5 L14 Assignment #04
+ZCZC W04 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 20 L15 Assignment #05
+ZCZC W04 10 L40 TXT/ related in general
+ZCZC W04 5 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 5 L41 TXT/mylog.txt related.
