@@ -71,3 +71,15 @@ ZCZC W05 20 L16 Assignment #06
 ZCZC W05 10 L40 TXT/ related in general
 ZCZC W05 5 L43 TXT/myrank.tex related, including peer review.
 ZCZC W05 5 L41 TXT/mylog.txt related.
+ZCZC W06 30 L00 General, etc.
+ZCZC W06 100 L01 SCELE/Discord related (Pop Quiz)
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 55 L05 Quiz related including studying
+ZCZC W06 15 L11 Assignment #01
+ZCZC W06 30 L12 Assignment #02
+ZCZC W06 60 L13 Assignment #03
+ZCZC W06 10 L14 Assignment #04
+ZCZC W06 20 L16 Assignment #05
+ZCZC W06 10 L40 TXT/ related in general
+ZCZC W06 5 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 5 L41 TXT/mylog.txt related.
